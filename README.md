@@ -1,4 +1,6 @@
-This page contains few coding exercise that we want our future engineers to solve. Feel free to solve these problems (as a project in your github) and share the project url to us using the <u>comment</u> option on <u>LinkedIn post</u> so that we can review **your creativity!!**
+#Welcome to Code & Solve!
+
+There are 3 coding problems below and would like to see if you can solve it. If you like to share the solution with us, please share GitHub project url of solution using the comment option on LinkedIn post so that we can review  **your creativity!!**
 
 #### Before completing the test below, keep these points in mind:
 

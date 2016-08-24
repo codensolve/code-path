@@ -59,47 +59,7 @@ John and his friends are planning to design a product to help people to do a pri
 
 |Sample Input|Sample Output|
 |------------|-------------|
-|John <br/> iPhone6 <br/> 625 <br/> Tim <br/> GalaxyS7 <br/> 685 <br/> Norman <br/> iPhone6 <br/> 618 <br/> Alex <br/> GalaxyS7 <br/> 700 <br/> Sam <br/> iPhone6 <br/> 610 <br/>||
-
-##### Sample Input
-
-John
-
-iPhone6
-
-625
-
-Tim
-
-GalaxyS7
-
-685
-
-Norman
-
-iPhone6
-
-618
-
-Alex
-
-GalaxyS7
-
-700
-
-Sam
-
-iPhone6
-
-610
-
-##### Sample Output
-
-iPhone6 610
-
-John – 15
-
-Norman – 8 
+|John <br/> iPhone6 <br/> 625 <br/> Tim <br/> GalaxyS7 <br/> 685 <br/> Norman <br/> iPhone6 <br/> 618 <br/> Alex <br/> GalaxyS7 <br/> 700 <br/> Sam <br/> iPhone6 <br/> 610 <br/>|iPhone6 610 <br/> John – 15 <br/> Norman – 8 |
 
 ### Problem 3: Help with Time Table
 
@@ -120,46 +80,9 @@ Smith needs some help in preparing a timetable for the school. Apart from the sc
   - f some word doesn’t find room in the current line, it should be placed in the next line. 
   - The text in the cell should be aligned to top and left borders. Make the table itself using characters “-” 
 
-##### Sample Input
+|Sample Input|Sample Output|
+|------------|-------------|
+|9 <br/> Physics <br/> Wednesday 3 <br/> Maths <br/> Monday 1 <br/> Chemistry <br/> Wednesday 1 <br/> Physical education <br/> Saturday 2 <br/> Astronomy <br/> Saturday 4 <br/> Urban geography <br/> Monday 4 <br/> History <br/> Saturday 1 <br/> Modeling <br/> Wednesday 2 <br/> Biology <br/> Wednesday 4|![Answer](https://raw.githubusercontent.com/codensolve/solve-this/master/answer.png)|
 
- 9
 
-Physics
 
-Wednesday 3
-
-Maths
-
-Monday 1
-
-Chemistry
-
-Wednesday 1
-
-Physical education
-
-Saturday 2
-
-Astronomy
-
-Saturday 4
-
-Urban geography
-
-Monday 4
-
-History
-
-Saturday 1
-
-Modeling
-
-Wednesday 2
-
-Biology
-
-Wednesday 4
-
-##### Sample Output
-
-![Answer](https://raw.githubusercontent.com/codensolve/solve-this/master/answer.png)

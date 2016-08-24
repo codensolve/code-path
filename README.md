@@ -27,7 +27,7 @@ Sarah owns a Cookie shop. Sarah has a limited number of types of cookies but sh
 - Price and Donation amount should be > 0
 - Result should display maximum donation amount Sarah can hold with thecombination of cookies.
 
-|Sample Input <br/> Format <br/> Maximum Money <br/> Name of the Cookie, Price ($), Donation Amount ($)|Sample Output|
+|Sample Input <br/> (Format: <br/> Maximum Money <br/> Name of the Cookie, Price ($), Donation Amount ($))|Sample Output|
 |------------|-------------|
 |20 <br/> A,5,2 <br/> B,3,1 <br/> C,7,4 <br/> D,9,3 <br/> E,1,0|10 (7,7,5,1)|
 

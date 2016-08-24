@@ -5,7 +5,7 @@ There are 3 coding problems below and would like to see if you can solve it. If 
 #### Before completing the test below, keep these points in mind:
 
 1. There is no one correct solution to this problem, there are many
-2. The whole point of this exercise is to complete a deliverable – so fill in any missing info as you see fit
+2. The whole point of this exercise is to solve the probelm – so fill in any missing info as you see fit
 3. Relax and show your style and creativity
 4. **See #3**
 
@@ -19,7 +19,7 @@ There are 3 coding problems below and would like to see if you can solve it. If 
 
 ### Problem 1: Encourage Donation
 
-Sarah owns a Cookie shop. Sarah has a limited number of types of cookies but she has an unlimited supply of each type. In her shop every cookie is associated with a donation amount - which means every time someone buys a cookie she keeps the donation amount associated to that and give to charity. Sarah want to encourage people to buy those cookies which will make her donate more money. 
+Sarah owns a Cookie shop. Sarah has a limited number of types of cookies but she has an unlimited supply of each type. In her shop every cookie is associated with a donation amount - which means every time someone buys a cookie she keeps the donation amount associated to that and give that amount to charity. Sarah want to encourage people to buy those cookies which will make her donate more money to charity. 
 
 ###### Rules:
 

@@ -57,6 +57,10 @@ John and his friends are planning to design a product to help people to do a pri
   - Display name of other people bought same device along with eligible cash back amount (different between their purchase and lowest price).
   - Do not display if the difference is 0.
 
+|Sample Input|Sample Output|
+|------------|-------------|
+|John <br/> iPhone6 <br/> 625 <br/> Tim <br/> GalaxyS7 <br/> 685 <br/> Norman <br/> iPhone6 <br/> 618 <br/> Alex <br/> GalaxyS7 <br/> 700 <br/> Sam <br/> iPhone6 <br/> 610 <br/>||
+
 ##### Sample Input
 
 John

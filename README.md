@@ -1,6 +1,6 @@
 #Welcome to Code & Solve!
 
-There are 3 coding problems below and would like to see if you can solve it. If you like to share the solution with us, please share GitHub project url of solution using the comment option on LinkedIn post so that we can review  **your creativity!!**
+There are 3 coding problems below and would like to see if you can solve it. If you like to share the solution with us, please share GitHub project url of solution using the comment option on LinkedIn post so that we can review **your creativity!!**
 
 #### Before completing the test below, keep these points in mind:
 
@@ -39,7 +39,7 @@ John and his friends are planning to design a product to help people to do a pri
 
 ###### Rules:
 
-- Users have to submit name, product name and price to application and at end of each day there will be one top product  with lowest price will be selected.
+- Users have to submit name, product name and price to application and at end of each day there will be one top product with lowest price will be selected.
 - All the words are strings of size from 1 to 20 characters
 - Name of people may coincide.
 - At the end of given time 
@@ -53,7 +53,7 @@ John and his friends are planning to design a product to help people to do a pri
 
 ### Problem 3: Help with Time Table
 
-Smith needs some help in preparing a timetable for the school. Apart from the school he is also a part-time employee of a nearby art gallery. So having a proper time table is very critical for him.  Smith has received number of courses, day of the week and number of lesson from school. He want to create a table with these details.
+Smith needs some help in preparing a timetable for the school. Apart from the school he is also a part-time employee of a nearby art gallery. So having a proper time table is very critical for him.  Smith has received number of courses, day of the week and number of lesson from school. He wants to create a table with these details.
 
 ###### Rules:
 

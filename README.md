@@ -5,7 +5,7 @@ There are 3 coding problems below and would like to see if you can solve it. If 
 #### Before completing the test below, keep these points in mind:
 
 1. There is no one correct solution to this problem, there are many
-2. The whole point of this exercise is to solve the probelm – so fill in any missing info as you see fit
+2. The whole point of this exercise is to solve the problem – so fill in any missing info as you see fit
 3. Relax and show your style and creativity
 4. **See #3**
 
@@ -27,13 +27,13 @@ Sarah owns a Cookie shop. Sarah has a limited number of types of cookies but sh
 - Each cookie has a name, price and donation amount. 
 - Name should be less than 20 characters
 - Price and Donation amount should be > 0
-- Result should display maximum donation amount Sarah can hold with thecombination of cookies.
+- Result should display maximum donation amount Sarah can hold with the combination of cookies.
 
 |Sample Input <br/> (Format: <br/> Maximum Money <br/> Name of the Cookie, Price ($), Donation Amount ($))|Sample Output|
 |------------|-------------|
 |20 <br/> A,5,2 <br/> B,3,1 <br/> C,7,4 <br/> D,9,3 <br/> E,1,0|10 (7,7,5,1)|
 
-### Probelm 2: Cash Back Application
+### Problem 2: Cash Back Application
 
 John and his friends are planning to design a product to help people to do a price match on products based on purchase price at different sellers. The idea is not match price to all purchases but for only one product in a day, depends on the price and popularity of product. 
 
@@ -60,14 +60,14 @@ Smith needs some help in preparing a timetable for the school. Apart from the sc
 - The application need to accept 3 different data. 
   - An integer represents total number of courses that Smith going to attend.
   - Course name - The name of the course may consist of up to five words, which are divided by exactly one space (there are no spaces before the first word and after the last one). The words consist of capital and lowercase Latin letters. The length of every word is within the range from 1 to10.
-  - Course description - Description contains the day of week and the number of a lesson, when it takes place. The day of week may take one of the three values: “Monday”, “Wednesday”or “Saturday”. The number of a lesson is an integer from 1 to 5. 
+  - Course description - Description contains the day of week and the number of a lesson, when it takes place. The day of week may take one of the three values: “Monday”, “Wednesday” or “Saturday”. The number of a lesson is an integer from 1 to 5. 
 - The resultant table should be size 4×3
   - Columns of the table should correspond to the three academic days
   - Rows should correspond to the four classes. 
   - Width of each column should be equal to 10 characters. 
   - Height of the row of the table equals to the height of the highest of its cells. 
-  - If all the cells in the row are empty then the height of the row should be equal 1 character. I
-  - f some word doesn’t find room in the current line, it should be placed in the next line. 
+  - If all the cells in the row are empty, then the height of the row should be equal 1 character. I
+  - If some word doesn’t find room in the current line, it should be placed in the next line. 
   - The text in the cell should be aligned to top and left borders. Make the table itself using characters “-” 
 
 |Sample Input|Sample Output|

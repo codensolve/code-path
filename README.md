@@ -74,5 +74,7 @@ Smith needs some help in preparing a timetable for the school. Apart from the sc
 |------------|-------------|
 |9 <br/> Physics <br/> Wednesday 3 <br/> Maths <br/> Monday 1 <br/> Chemistry <br/> Wednesday 1 <br/> Physical education <br/> Saturday 2 <br/> Astronomy <br/> Saturday 4 <br/> Urban geography <br/> Monday 4 <br/> History <br/> Saturday 1 <br/> Modeling <br/> Wednesday 2 <br/> Biology <br/> Wednesday 4|![Answer](https://raw.githubusercontent.com/codensolve/solve-this/master/answer.png)|
 
+###License
 
+Any contributions made under this project will be governed by the Apache License 2.0.
 

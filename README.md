@@ -60,7 +60,7 @@ Smith needs some help in preparing a timetable for the school. Apart from the sc
 - The application need to accept 3 different data. 
   - An integer represents total number of courses that Smith going to attend.
   - Course name - The name of the course may consist of up to five words, which are divided by exactly one space (there are no spaces before the first word and after the last one). The words consist of capital and lowercase Latin letters. The length of every word is within the range from 1 to10.
-  - Course description - Description contains the day of week and the number of a lesson, when it takes place. The day of week may take one of the three values: “Monday”, “Wednesday” or “Saturday”. The number of a lesson is an integer from 1 to 5. 
+  - Course description - Description contains the day of week and the number of a lesson, when it takes place. The day of week may take one of the three values: “Monday”, “Wednesday” or “Friday”. The number of a lesson is an integer from 1 to 5. 
 - The resultant table should be size 4×3
   - Columns of the table should correspond to the three academic days
   - Rows should correspond to the four classes. 
@@ -72,7 +72,7 @@ Smith needs some help in preparing a timetable for the school. Apart from the sc
 
 |Sample Input|Sample Output|
 |------------|-------------|
-|9 <br/> Physics <br/> Wednesday 3 <br/> Maths <br/> Monday 1 <br/> Chemistry <br/> Wednesday 1 <br/> Physical education <br/> Saturday 2 <br/> Astronomy <br/> Saturday 4 <br/> Urban geography <br/> Monday 4 <br/> History <br/> Saturday 1 <br/> Modeling <br/> Wednesday 2 <br/> Biology <br/> Wednesday 4|![Answer](https://raw.githubusercontent.com/codensolve/solve-this/master/answer.png)|
+|9 </br> Biology <br/> Wednesday 3 <br/> World History <br/> Monday 1 <br/> Maths <br/> Wednesday 1 <br/> Social Studies <br/> Friday 2 <br/> Painting <br/> Friday 4 <br/> Marine Biology <br/> Monday 4 <br/> Algebra <br/> Friday 1 <br/> Accounting <br/> Wednesday 2 <br/> Economics <br/> Wednesday 4|![Answer](https://raw.githubusercontent.com/codensolve/solve-this/master/answer.png)|
 
 ###License
 

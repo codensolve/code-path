@@ -1,8 +1,8 @@
 #Welcome to Code & Solve!
 
-There are 3 coding problems below and would like to see if you can solve it. If you like to share the solution with us, please share GitHub project url of solution using the comment option on LinkedIn post so that we can review **your creativity!!**
+Below are 3 coding problems – see if you can solve them! If you would like to share the solution with us, please share the GitHub project url for your solution using the comment option on our LinkedIn post. Let us see **your creativity!!**
 
-#### Before completing the test below, keep these points in mind:
+#### Keep these points in mind as you complete this :
 
 1. There is no one correct solution to this problem, there are many
 2. The whole point of this exercise is to solve the problem – so fill in any missing info as you see fit
@@ -11,7 +11,7 @@ There are 3 coding problems below and would like to see if you can solve it. If 
 
 #### Basic Requirements:
 
-- All code should be accessible from github.com. If you are using private repository, please provide access to id 'codensolve'. In case of any doubt please check https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/
+- All code should be accessible from github.com. If you are using a private repository, please provide access to id 'codensolve'. In case of any doubt please check https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/
 - All code should be executable and delivered with test cases.
 - Any frameworks or build tools can be used as long as complete projects are included with all instructions to execute it.
 - Detailed error/exception handling is not required, but encouraged
@@ -19,7 +19,7 @@ There are 3 coding problems below and would like to see if you can solve it. If 
 
 ### Problem 1: Encourage Donation
 
-Sarah owns a Cookie shop. Sarah has a limited number of types of cookies but she has an unlimited supply of each type. In her shop every cookie is associated with a donation amount - which means every time someone buys a cookie she keeps the donation amount associated to that and give that amount to charity. Sarah want to encourage people to buy those cookies which will make her donate more money to charity. 
+Sarah owns a Cookie shop. Sarah has a limited number of types of cookies, but she has an unlimited supply of each type. In her shop every cookie is associated with a donation amount - which means every time someone buys a cookie, she donates that amount to charity and keeps the remainder.  Sarah wants to encourage people to buy the cookies with the highest donation amounts to maximize what she gives to charity. 
 
 ###### Rules:
 
@@ -35,11 +35,11 @@ Sarah owns a Cookie shop. Sarah has a limited number of types of cookies but sh
 
 ### Problem 2: Cash Back Application
 
-John and his friends are planning to design a product to help people to do a price match on products based on purchase price at different sellers. The idea is not match price to all purchases but for only one product in a day, depends on the price and popularity of product. 
+John and his friends are planning to design a product to help people match prices on products at different sellers. The idea is not to match price for all purchases but for only one product in a day, depending on the price and popularity of the products.
 
 ###### Rules:
 
-- Users have to submit name, product name and price to application and at end of each day there will be one top product with lowest price will be selected.
+- Users have to submit name, product name, and price to the application and at end of each day the one top product with the lowest price will be selected
 - All the words are strings of size from 1 to 20 characters
 - Name of people may coincide.
 - At the end of given time 
@@ -53,17 +53,17 @@ John and his friends are planning to design a product to help people to do a pri
 
 ### Problem 3: Help with Time Table
 
-Smith needs some help in preparing a timetable for the school. Apart from the school he is also a part-time employee of a nearby art gallery. So having a proper time table is very critical for him.  Smith has received number of courses, day of the week and number of lesson from school. He wants to create a table with these details.
+Smith needs some help in preparing a timetable for his school. Outside of school he is also a part-time employee at a nearby art gallery, so having a proper time table is critical.  Smith has received his courses, and the day and period during the day when it occurs. He now wants to create a table with these details.
 
 ###### Rules:
 
-- The application need to accept 3 different data. 
-  - Total number of courses that Smith going to attend, this is number.
+- The application needs to accept 3 different pieces of data. 
+  - Total number of courses that Smith will attend (this is number)
   - Course name - The name of the course may consist of up to five words, which are divided by exactly one space (there are no spaces before the first word and after the last one). The words consist of capital and lowercase Latin letters. The length of every word is within the range from 1 to10.
-  - Course Schedule - Description contains the day of week and the number of a lesson, when it takes place. The day of week may take one of the three values: “Monday”, “Wednesday” or “Friday”. The number of a lesson is an integer from 1 to 5. 
-- The resultant table should be size 4×3
-  - Columns of the table should correspond to the three academic days
-  - Rows should correspond to the four classes. 
+  - Course Schedule - Course Schedule - Description contains the day of week and the lesson period (which time slot during the day).   The day of week may take one of the three values: “Monday”, “Wednesday” or “Friday”. The lesson period is an integer from 1 to 5. 
+- The resulting table should be 4×3 in size
+  - The columns of the table should correspond to the three academic days
+  - Rows should correspond to the four lesson periods. 
   - Width of each column should be equal to 10 characters. 
   - Height of the row of the table equals to the height of the highest of its cells. 
   - If all the cells in the row are empty, then the height of the row should be equal 1 character. I

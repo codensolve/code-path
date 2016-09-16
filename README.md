@@ -58,9 +58,9 @@ Smith needs some help in preparing a timetable for the school. Apart from the sc
 ###### Rules:
 
 - The application need to accept 3 different data. 
-  - An integer represents total number of courses that Smith going to attend.
+  - Total number of courses that Smith going to attend, this is number.
   - Course name - The name of the course may consist of up to five words, which are divided by exactly one space (there are no spaces before the first word and after the last one). The words consist of capital and lowercase Latin letters. The length of every word is within the range from 1 to10.
-  - Course description - Description contains the day of week and the number of a lesson, when it takes place. The day of week may take one of the three values: “Monday”, “Wednesday” or “Friday”. The number of a lesson is an integer from 1 to 5. 
+  - Course Schedule - Description contains the day of week and the number of a lesson, when it takes place. The day of week may take one of the three values: “Monday”, “Wednesday” or “Friday”. The number of a lesson is an integer from 1 to 5. 
 - The resultant table should be size 4×3
   - Columns of the table should correspond to the three academic days
   - Rows should correspond to the four classes. 
@@ -68,7 +68,7 @@ Smith needs some help in preparing a timetable for the school. Apart from the sc
   - Height of the row of the table equals to the height of the highest of its cells. 
   - If all the cells in the row are empty, then the height of the row should be equal 1 character. I
   - If some word doesn’t find room in the current line, it should be placed in the next line. 
-  - The text in the cell should be aligned to top and left borders. Make the table itself using characters “-” 
+  - The text in the cell should be aligned to top and left borders. Make the table itself using characters “=”, “+” and “|”
 
 |Sample Input|Sample Output|
 |------------|-------------|
